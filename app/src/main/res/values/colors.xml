@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="blue">#92A3FD</color>
+    <color name="light_blue">#99c0fe</color>
+    <color name="purple">#C58BF2</color>
+
+    <color name="GreyTransparent">#55A0A0A0</color>
+    <color name="DarkGreyTransparent">#595d62</color>
+
+
+    <color name="baby_blue">#d7e2fc</color>
+    <color name="powder_blue">#f4f7ff</color>
+    <color name="colorSnackBarError">#ED9B95</color>
+    <color name="colorSnackBarSuccess">#CAECA3</color>
+
+    <color name="unselectedBattery">#d4ffbf</color>
+    <color name="selectedBattery">#99ff66</color>
+    <color name="quantum_googgreeny">#5BDDB0</color>
+</resources>
